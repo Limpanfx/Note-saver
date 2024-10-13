@@ -1,7 +1,7 @@
 import os
 from datetime import datetime
 
-folder_path1 = r"C:\Users\23liot\Desktop\Note Saver\Notes"
+folder_path1 = r"C:\Users\User\Desktop\Note Saver\Notes" # replace this with your notes path
 current_datetime = datetime.now()
 formatted_datetime = current_datetime.strftime("%Y-%m-%d %H:%M:%S")
 
